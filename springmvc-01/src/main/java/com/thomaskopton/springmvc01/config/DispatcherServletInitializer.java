@@ -2,6 +2,10 @@ package com.thomaskopton.springmvc01.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
+/**
+ * @author tkopton
+ *
+ */
 public class DispatcherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer{
 
 	@Override
