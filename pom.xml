@@ -20,6 +20,7 @@
     <modules>
         <!-- Add here the new modules -->
         <module>springmvc-01</module>
+        <module>springmvc-01-domain/springmvc-01-domain</module>
     </modules>
 
 </project>
