@@ -10,7 +10,9 @@ public class DispatcherServletInitializer extends AbstractAnnotationConfigDispat
 
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
-		return null;
+		return new Class[] {
+				RootApplicationContextConfig.class
+		};
 	}
 
 	@Override
@@ -22,6 +24,6 @@ public class DispatcherServletInitializer extends AbstractAnnotationConfigDispat
 
 	@Override
 	protected String[] getServletMappings() {
-		return new String[] { "/" };
+		return new String[] { "/" }; //Every incoming request will be handled by this Dispatcher
 	}
 }
