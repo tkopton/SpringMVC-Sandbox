@@ -14,8 +14,8 @@ public class HomeController {
 		model.addAttribute("greeting", ": Welcome to the Patient Annotation System.");
 		model.addAttribute("tagline", ": OurPuppet decision supporting system.");
 		
-		redirectAttributes.addFlashAttribute("greeting", "-> Welcome to the Patient Annotation System.");
-		redirectAttributes.addFlashAttribute("tagline", "-> OurPuppet decision supporting system.");
+		redirectAttributes.addFlashAttribute("greeting", "> Welcome to the Patient Annotation System.");
+		redirectAttributes.addFlashAttribute("tagline", "> OurPuppet decision supporting system.");
 		
 		return "redirect:/welcome/greeting";
 	}
