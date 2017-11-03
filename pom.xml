@@ -25,6 +25,7 @@
         <module>springmvc-01-controller</module>
 
         <module>springmvc-01-exceptions</module>
+        <module>springmvc-01-config</module>
     </modules>
 
 </project>
