@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 
 import com.thomaskopton.springmvc01domain.PatientState;
 import com.thomaskopton.springmvc01domain.repository.PatientStateRepository;
-import com.thomaskopton.springmvc01.exception.PatientStateNotFoundException;
+import com.thomaskopton.springmvc01controller.exception.PatientStateNotFoundException;
 
 @Repository
 public class InMemoryPatientStateRepository implements PatientStateRepository {

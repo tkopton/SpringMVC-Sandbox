@@ -1,0 +1,76 @@
+!SESSION 2017-11-02 23:41:07.077 -----------------------------------------------
+eclipse.buildId=4.7.1.M20170906-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/tkopton/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox -product org.eclipse.epp.package.java.product -keyring /Users/tkopton/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2017-11-02 23:41:13.401
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-11-02 23:41:13.401
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@57a0aeb8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45f70f68,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:18.890
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:18.892
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:19.963
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:19.976
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:19.977
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:19.983
+!MESSAGE Save JSON notifications content to cache file /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.109
+!MESSAGE Icon https://vaadin.com/documents/10187/10395/tori-icon-blue-bg-90px/4597dffb-3868-4711-b422-8fc3e71844e6?t=1394217295000 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.174
+!MESSAGE Icon https://vaadin.com/documents/10187/3851288/Vaadin-8-1.png/4f9c261d-b696-4bfd-9dcc-77f13674de7a?t=1487750632000 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.203
+!MESSAGE Icon https://vaadin.com/image/image_gallery?uuid=18682a9f-1321-496c-9b4c-6e6af1efb22c&groupId=10187&t=1381328788305Scheme is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.371
+!MESSAGE Image https://vaadin.com/image/image_gallery?img_id=3851299&t=1385741714872 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.441
+!MESSAGE Image https://vaadin.com/documents/10187/3851288/vaadin-new-version.png/ac0a4d68-705b-46ec-866f-8cc7a657a99c?t=1415802870933 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.492
+!MESSAGE Image https://vaadin.com/image/image_gallery?uuid=1b16f25c-d29d-402b-8b66-f8d69c6bf87d&groupId=10187&t=1379421069097 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:20.525
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-02 23:41:25.583
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-02 23:41:25.603
+!MESSAGE IvyDE plugin started
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:44.287
+!MESSAGE All vaadin 7+ projects : []
