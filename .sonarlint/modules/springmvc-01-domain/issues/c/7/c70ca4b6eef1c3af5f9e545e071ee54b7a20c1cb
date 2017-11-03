@@ -1,0 +1,7 @@
+
+}squid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ρώHRMINORZ
+CODE_SMELL
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ώ―δ‚ÿÿÿÿÿHRMINORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬αΆHRMINORZ
+CODE_SMELL
