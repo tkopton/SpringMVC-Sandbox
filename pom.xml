@@ -23,6 +23,8 @@
         
         <module>springmvc-01-domain</module>
         <module>springmvc-01-controller</module>
+
+        <module>springmvc-01-exceptions</module>
     </modules>
 
 </project>

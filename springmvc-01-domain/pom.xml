@@ -54,7 +54,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.thomaskopton</groupId>
-			<artifactId>springmvc-01-controller</artifactId>
+			<artifactId>springmvc-01-exceptions</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>

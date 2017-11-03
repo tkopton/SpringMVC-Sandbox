@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.thomaskopton.springmvc01.service.ExpertService;
+import com.thomaskopton.springmvc01domain.service.ExpertService;
 
 @Controller
 @RequestMapping("annotation")

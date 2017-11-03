@@ -1,4 +1,4 @@
-package com.thomaskopton.springmvc01controller.exception;
+package com.thomaskopton.springmvc01exceptions;
 
 public class PatientStateNotFoundException extends RuntimeException {
 	private static final long serialVersionUID = -694354952032299587L;

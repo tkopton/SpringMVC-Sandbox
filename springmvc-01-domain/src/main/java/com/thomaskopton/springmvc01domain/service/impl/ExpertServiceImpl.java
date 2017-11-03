@@ -1,4 +1,4 @@
-package com.thomaskopton.springmvc01service.impl;
+package com.thomaskopton.springmvc01domain.service.impl;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.thomaskopton.springmvc01domain.Expert;
 import com.thomaskopton.springmvc01domain.repository.ExpertRepository;
-import com.thomaskopton.springmvc01service.ExpertService;
+import com.thomaskopton.springmvc01domain.service.ExpertService;
 
 @Service
 public class ExpertServiceImpl implements ExpertService {

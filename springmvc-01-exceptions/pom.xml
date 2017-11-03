@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.thomaskopton</groupId>
-	<artifactId>springmvc-01-service</artifactId>
+	<artifactId>springmvc-01-exceptions</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>springmvc-01-service</name>
+	<name>springmvc-01-exceptions</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -27,18 +27,13 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.thomaskopton</groupId>
-			<artifactId>springmvc-01-domain</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 

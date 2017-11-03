@@ -1,4 +1,4 @@
-package com.thomaskopton.springmvc01service;
+package com.thomaskopton.springmvc01domain.service;
 
 import java.util.List;
 

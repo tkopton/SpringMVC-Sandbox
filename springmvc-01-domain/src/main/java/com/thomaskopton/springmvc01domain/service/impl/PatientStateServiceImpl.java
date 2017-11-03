@@ -1,4 +1,4 @@
-package com.thomaskopton.springmvc01service.impl;
+package com.thomaskopton.springmvc01domain.service.impl;
 
 import java.util.List;
 import java.util.Map;
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.thomaskopton.springmvc01domain.repository.PatientStateRepository;
-import com.thomaskopton.springmvc01service.PatientStateService;
+import com.thomaskopton.springmvc01domain.service.PatientStateService;
 import com.thomaskopton.springmvc01domain.PatientState;
 
 @Service

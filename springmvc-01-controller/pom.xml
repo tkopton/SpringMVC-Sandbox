@@ -5,7 +5,6 @@
 
 	<groupId>com.thomaskopton</groupId>
 	<artifactId>springmvc-01-controller</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>springmvc-01-controller</name>
@@ -44,6 +43,16 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.thomaskopton</groupId>
+			<artifactId>springmvc-01-exceptions</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.thomaskopton</groupId>
+			<artifactId>springmvc-01-domain</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -56,4 +65,5 @@
 	</build>
 
 
+	<version>0.0.1-SNAPSHOT</version>
 </project>

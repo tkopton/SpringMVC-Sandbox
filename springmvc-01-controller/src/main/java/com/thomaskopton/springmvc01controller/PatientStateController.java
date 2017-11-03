@@ -23,10 +23,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.thomaskopton.springmvc01.domain.PatientState;
-import com.thomaskopton.springmvc01.exception.NoPatientStateFoundUnderHealthStateException;
-import com.thomaskopton.springmvc01.exception.PatientStateNotFoundException;
-import com.thomaskopton.springmvc01.service.PatientStateService;
+import com.thomaskopton.springmvc01domain.PatientState;
+import com.thomaskopton.springmvc01exceptions.NoPatientStateFoundUnderHealthStateException;
+import com.thomaskopton.springmvc01exceptions.PatientStateNotFoundException;
+import com.thomaskopton.springmvc01domain.service.PatientStateService;
 
 @Controller
 @RequestMapping("annotation")

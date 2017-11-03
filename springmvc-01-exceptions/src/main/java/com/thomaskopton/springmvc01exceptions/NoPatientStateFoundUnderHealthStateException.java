@@ -1,4 +1,4 @@
-package com.thomaskopton.springmvc01controller.exception;
+package com.thomaskopton.springmvc01exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
