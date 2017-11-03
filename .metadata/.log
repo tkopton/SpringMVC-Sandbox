@@ -74,3 +74,120 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY com.vaadin.designer2 1 0 2017-11-02 23:41:44.287
 !MESSAGE All vaadin 7+ projects : []
+!SESSION 2017-11-03 18:14:08.473 -----------------------------------------------
+eclipse.buildId=4.7.1.M20170906-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/tkopton/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox -product org.eclipse.epp.package.java.product -keyring /Users/tkopton/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2017-11-03 18:14:15.274
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-11-03 18:14:15.274
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@134ec0f3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@258ac1e6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:20.759
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:20.767
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:21.311
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:21.313
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:22.579
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:23.555
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:23.555
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:23.566
+!MESSAGE Save JSON notifications content to cache file /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/.metadata/.plugins/com.vaadin.integration.eclipse/notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:23.753
+!MESSAGE Schedule fetching new notifications
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-03 18:14:25.021
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2017-11-03 18:14:25.068
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:36.129
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:36.253
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:36.253
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:38.008
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:38.048
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:38.087
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:38.104
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:38.206
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 18:14:38.208
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY com.vaadin.designer2 1 0 2017-11-03 18:14:50.814
+!MESSAGE All vaadin 7+ projects : []
+
+!ENTRY com.vaadin.integration.eclipse 4 0 2017-11-03 18:24:14.115
+!MESSAGE springmvc-01 does not exist
+!STACK 1
+Java Model Exception: Java Model Status [springmvc-01 does not exist]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:786)
+	at org.eclipse.jdt.internal.core.SourceType.newSupertypeHierarchy(SourceType.java:743)
+	at org.eclipse.jdt.internal.core.SourceType.newSupertypeHierarchy(SourceType.java:695)
+	at com.vaadin.integration.eclipse.util.VaadinPluginUtil.typeExtendsClass(VaadinPluginUtil.java:616)
+	at com.vaadin.integration.eclipse.decorators.ApplicationDecorator.decorate(ApplicationDecorator.java:57)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:253)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:104)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:377)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:359)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:311)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2017-11-03 18:24:14.118
+!MESSAGE springmvc-01 does not exist
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 21:31:26.752
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-11-03 21:31:26.755
+!MESSAGE Non IFiles not supported yet

@@ -1,1 +1,200 @@
 2017-11-02 23:41:18,512 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-03 18:14:20,911 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-03 18:14:38,751 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/pom.xml.
+2017-11-03 18:14:39,125 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01-domain:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/pom.xml.
+2017-11-03 18:14:39,252 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01-controller:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/pom.xml.
+2017-11-03 18:14:39,447 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01-exceptions:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-exceptions/pom.xml.
+2017-11-03 18:14:39,558 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01-config:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-config/pom.xml.
+2017-11-03 18:14:40,218 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01/src/main/java
+2017-11-03 18:14:40,219 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01/src/main/resources
+2017-11-03 18:14:40,220 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01/src/main/resources
+2017-11-03 18:14:40,221 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01/src/test/java
+2017-11-03 18:14:40,366 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-exceptions/src/main/java
+2017-11-03 18:14:40,366 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-exceptions/src/main/resources
+2017-11-03 18:14:40,367 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-exceptions/src/main/resources
+2017-11-03 18:14:40,368 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-exceptions/src/test/java
+2017-11-03 18:14:40,443 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-domain/src/main/java
+2017-11-03 18:14:40,444 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-domain/src/main/resources
+2017-11-03 18:14:40,444 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-domain/src/main/resources
+2017-11-03 18:14:40,444 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-domain/src/test/java
+2017-11-03 18:14:40,499 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-controller/src/main/java
+2017-11-03 18:14:40,499 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-controller/src/main/resources
+2017-11-03 18:14:40,500 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-controller/src/main/resources
+2017-11-03 18:14:40,500 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-controller/src/test/java
+2017-11-03 18:14:40,556 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-config/src/main/java
+2017-11-03 18:14:40,557 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-config/src/main/resources
+2017-11-03 18:14:40,557 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01-config/src/main/resources
+2017-11-03 18:14:40,557 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01-config/src/test/java
+2017-11-03 18:14:41,067 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 6 sec
+2017-11-03 18:14:44,778 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:44,786 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:14:44,811 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 18:14:44,818 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:44,818 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 18:14:45,273 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:45,273 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:14:45,274 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:14:45,275 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:45,276 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-config/src/test/resources
+2017-11-03 18:14:45,525 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:45,525 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:14:45,526 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:14:45,528 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:45,529 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-exceptions/src/test/resources
+2017-11-03 18:14:45,983 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:45,984 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:14:45,984 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:14:45,986 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:45,986 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 18:14:46,257 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:46,257 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:14:46,258 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:14:46,260 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:14:46,260 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:16:31,088 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:16:31,093 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:16:31,094 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 18:16:31,096 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:16:31,096 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 18:21:47,676 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:21:47,678 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:21:47,679 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:21:47,681 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:21:47,681 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:21:55,278 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:21:55,279 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:21:55,279 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:21:55,285 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:21:55,285 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:22:03,694 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:22:03,694 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:22:03,695 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:22:03,697 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:22:03,697 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:22:59,991 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:22:59,995 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:22:59,995 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:22:59,996 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:22:59,996 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:23:18,163 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:23:18,163 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:23:18,164 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-11-03 18:23:18,167 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:23:18,167 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:23:33,038 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:23:33,040 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:23:33,041 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-11-03 18:23:33,043 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:23:33,043 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:23:53,122 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:23:53,123 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:23:53,123 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 18:23:53,124 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:23:53,124 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:25:22,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:25:22,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:25:22,123 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 18:25:22,125 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:25:22,125 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:26:01,642 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:26:01,642 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:26:01,643 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 18:26:01,645 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:26:01,645 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 18:28:40,927 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:28:40,928 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 18:28:40,929 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 18:28:40,934 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 18:28:40,935 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 21:30:16,555 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:30:16,556 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:30:16,557 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:30:16,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:30:16,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 21:31:26,734 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/pom.xml.
+2017-11-03 21:31:27,021 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01/src/main/java
+2017-11-03 21:31:27,021 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01/src/main/resources
+2017-11-03 21:31:27,021 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvc-01/src/main/resources
+2017-11-03 21:31:27,021 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvc-01/src/test/java
+2017-11-03 21:31:27,064 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-11-03 21:31:27,578 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:31:27,578 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:31:27,579 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:31:27,584 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:31:27,584 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:32:00,194 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:32:00,197 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:32:00,198 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:32:00,200 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:32:00,201 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-controller/src/test/resources
+2017-11-03 21:34:18,235 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.thomaskopton:springmvc-01:0.0.1-SNAPSHOT @ /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/pom.xml.
+2017-11-03 21:34:18,622 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:34:18,622 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:34:18,622 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:34:18,624 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:34:18,624 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:34:19,953 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:34:19,954 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:34:19,957 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:34:19,962 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:34:19,962 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:43:33,363 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:43:33,365 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:43:33,366 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:43:33,368 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:43:33,368 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:44:13,090 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:44:13,092 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:44:13,093 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:44:13,095 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:44:13,095 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:47:14,158 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:47:14,159 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:47:14,159 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:47:14,160 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:47:14,160 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 21:51:56,501 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:51:56,503 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:51:56,504 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:51:56,510 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:51:56,510 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 21:52:24,362 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:52:24,364 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:52:24,365 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:52:24,366 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:52:24,366 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 21:53:27,373 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:53:27,374 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:53:27,377 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:53:27,378 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:53:27,378 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:54:22,493 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:54:22,494 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:54:22,495 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:54:22,498 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:54:22,498 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:56:16,268 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:56:16,269 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:56:16,270 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 21:56:16,271 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:56:16,272 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
+2017-11-03 21:58:19,567 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:58:19,567 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:58:19,568 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:58:19,569 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:58:19,569 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 21:58:47,869 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:58:47,869 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 21:58:47,869 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 21:58:47,871 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 21:58:47,872 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 22:05:09,091 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 22:05:09,092 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 22:05:09,093 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-03 22:05:09,095 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 22:05:09,096 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01-domain/src/test/resources
+2017-11-03 22:05:29,223 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 22:05:29,224 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-03 22:05:29,227 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-03 22:05:29,232 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-03 22:05:29,232 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkopton/eclipse-workspace/SpringMVC-Sandbox/springmvc-01/src/test/resources
